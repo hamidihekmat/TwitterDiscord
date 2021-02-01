@@ -1,0 +1,17 @@
+{
+  "name": "musker",
+  "version": "1.0.0",
+  "description": "Elon Musk Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Hekmat Hamidi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  }
+}
